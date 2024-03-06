@@ -1,0 +1,16 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.21.0"
+  },
+  "dependencies": {
+    "@ipld/dag-json": "^10.2.0",
+    "@ipld/dag-pb": "^4.1.0",
+    "@openzeppelin/contracts": "^5.0.2",
+    "ajv": "^8.12.0",
+    "ajv-formats": "^2.1.1",
+    "glob": "^10.3.10",
+    "multiformats": "^13.0.1"
+  }
+}
